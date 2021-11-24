@@ -1,0 +1,260 @@
+@media (max-width : 991px) {
+    a.icon {
+    font-size: 26px;
+    display: block;
+    color: #000;
+    padding-left: 18px;
+	position: absolute;
+    right: 45px;
+    top: 20px;
+}
+.mobile-call{
+	padding : 0 !important;
+}
+#myLinks{
+	display : none;
+}
+li.nav-item.Florida-nav {
+    width: 100% !important;
+    display: inline-block;
+    letter-spacing: 1px;
+    border-top: 1px solid #ccc;
+    padding: 3px;
+}
+.justify-content-center {
+    display: block;
+}
+.mobile-header img {
+    width: 222px;
+    padding-left: 10px;
+}
+header#myHeader  {
+    position: relative;
+}	
+.mobile-header {
+    padding: 0;
+}
+.call-now p {
+    font-size: 20px;
+    padding-top: 55px;
+    padding-left: 15px;
+}
+}
+@media(min-width : 320px) and (max-width : 768px) {
+.col-4{
+	width : 100%;
+}
+.icon{
+	display :block;
+}
+.home-insceptor {
+     top: 55px;
+    width: 100%;
+    left: 3px;
+}
+
+.home-insceptor h1 {
+    font-size: 30px;
+	letter-spacing: 7px;
+}
+.home-insceptor p {
+    letter-spacing: 1px;
+    font-size: 7px;
+	}
+.container {
+    padding: 0px 30px;
+}
+.home-insceptor a {
+	margin-left : 53px;
+	    padding: 0;
+}
+.contact-btn {
+    padding: 3px 0px 50px 15px;
+	margin: 0;
+}
+.img-home {
+    padding-left: 0px !important;
+}
+.col-6{
+	width : 100%;
+	overflow : hidden;
+}
+.col-8 {
+    width: 100%;
+}
+h3.section2-head {
+    padding: 30px 0px 30px 0;
+    line-height: 1.7;
+}
+.buyers {
+    margin-right: 0px; 
+	margin-top : 10px;
+}
+.firstBuyer{
+	margin-top : 20px;
+}
+.buyers h4 {
+   padding: 10px 0 5px 0px;
+    font-size: 18px;
+}
+.home-heading h2 {
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0;
+}
+.section2 a {
+    line-height: 1.5;
+}	
+.img-home {
+    padding-left: 0;
+}
+.col-6 img{
+	width : 100%;
+}
+.home-heading h2 {
+    padding-top: 30px;
+	font-size: 23px;
+    font-weight: bold;
+    line-height: 1.2;
+}
+footer p {
+    text-align: center;
+    font-size: 13px;
+    margin-bottom: 30px;
+	    line-height: 1.6;
+		padding : 0;
+}
+footer{
+	    padding: 20px;
+}
+footer .container-fluid {
+    padding: 0;
+}
+.footer-nav {
+    display: block;
+    float: none;
+    font-size: 12px;
+    padding-left: 120px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+.section1{
+	overflow : hidden;
+	    width: 100%;
+		margin-bottom: 20px;
+    min-height: auto !important;
+}
+.home-about.image.animated.bounceInLeft.go {
+    overflow: hidden;
+	width : 100%;
+}
+.home-about.img-home.animated.bounceInRight.go {
+    width : 100%;
+	overflow: hidden;
+}
+section.service1 {
+    min-height: 35vh;
+    margin-top: 0px;
+}
+.services-head {
+    background: none !important;
+    top: 20px;
+   left: 47px;
+}
+.service1 h1 {
+	display : block;
+    letter-spacing: 1px;
+    text-align : center;
+    font-size: 30px;
+    font-weight: 500;
+	    font-family: Montserrat;
+    margin-bottom: 20px;
+}
+.service-section2 h2 {
+    font-size: 23px;
+    color: #333333;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    letter-spacing: -0.2px;
+}
+.buyers-inspections-content p {
+    padding: 20px 0px 0px 0px;
+}
+
+element.style {
+}
+.call-today {
+	border : none;
+	padding : 0;
+}	
+.sending{
+	    margin: 14px 0px 20px 55px;
+}
+.contact-incpector {
+    padding-left: 40px;
+}
+.incpector-name {
+    display: block;
+    max-width: 100% !important;
+}
+.animatedParent {
+    width: 100%;
+    overflow: hidden;
+}
+.contact-head {
+    margin-top: 0;
+}
+.constructionsss {
+    margin-bottom: 40px;
+}
+img.buye-sell.affi-title {
+    width: 100%;
+}
+.image-caption {
+    width: 100%;
+}
+.callHead {
+    font-size: 15px;
+}
+}
+@media(min-width : 375px) and (max-width : 668px) {
+.contact-btn {
+    padding: 3px 0px 50px 43px;
+}
+.home-insceptor a {
+    margin-left: 93px;
+}
+.home-insceptor p {
+    font-size: 10px;
+}
+.footer-nav {
+    padding-left: 140px;
+}
+a.contact-incpector {
+    text-align: center;
+    float: none;
+    margin-left: 47px;
+	    margin-top: 30px;
+}
+.sending {
+    margin: 14px 0px 20px 78px;
+}
+img.reports-image {
+    margin: 10px 0px 23px -10px;
+    width: 100%;
+}
+img.inspection-image {
+    margin: 10px 40px 19px 0px;
+    width: 100%;
+}
+.incpector-image.animated.bounceIn {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.mobile-header img {
+    width: 240px;
+}
+}

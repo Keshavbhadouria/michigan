@@ -1,0 +1,61 @@
+*{margin:0;padding:0;}
+
+button:focus {outline: none;}
+
+.nav-default a {text-decoration: none;text-transform: uppercase;display: block;list-style: none;color: #ffffff;font-size: 12px;padding: 10px 15px;}
+.collapse li a {padding: 10px 25px;}
+.collapse li.active a {background: #9c2a22;}
+.nav-default a i {padding-right: 10px;}
+.bg-image span video {max-height: 100%;height: auto;vertical-align: middle;}
+h4.plus-image {position: relative;}
+.section3 .plus-image span img {max-height: 100%;height: auto;width: 100%;margin: 10px 0;}
+.plus-image input.form-control.shadow-sm.bg-body.rounded {display: block;clear: both;width: 100%;margin: 5px 0;}
+ul.navbar-nav.top-nav a {line-height: 21px;text-decoration: none;color: #000;padding: 0 0 0;}
+.nav-default li {list-style: none;}
+.admin-header {border-bottom: 1px solid #b2c0cf;margin-top: 0px;padding: 5px;}
+ul.navbar-nav.top-nav li img {width: auto;height: 22px;}
+.side-bar {background: #424242;height: 100vh;padding :0;box-shadow: 0 0 14px 5px #ccc;}
+.right-header {margin: 0;padding: 0;}
+ul.nav-default {padding: 0;}
+.side-bar h3 {color: #fff;font-size: 20px;padding: 15px;margin-bottom: 0;border-bottom: 1px solid;}
+ul.nav-default li {border-bottom: 1px solid #ccc;}
+ul.nav-default li:hover, ul.nav-default li.active {background: #7c782b;}
+.plus-image span input {width: 67%;margin-left: 10px;}
+ul.navbar-nav.top-nav li {margin-right: 25px;}
+.welcome {font-size: 25px;margin: 0;font-weight: 700;letter-spacing: 2px;}
+.welcome span {color: #7d792b;}
+.side-logo {padding: 18px 15px;font-size: 23px;color: aliceblue;text-align: left;border-bottom: 1px solid #ccc;font-weight: 900;cursor: pointer;}
+
+.head-logo {width: 200px;}
+.service {margin-top: 25px;border-radius: 5px;padding: 0 10px;height: calc(100vh - 170px);overflow: auto;}
+h4.section-name {font-weight: 700;font-size: 23px;margin-bottom: 20px;position: relative;}
+h3, h4, h5 {text-transform: capitalize;}
+h3 , h5{color: #7d792b;}
+span .form-control {display: inline-block !important;clear: none;width: auto;padding: 3px 10px !important;}
+.navbar-expand-lg .navbar-nav .nav-link {color: #cccccc;}
+.plus-image, h4 {font-size: 20px;font-weight: 400;padding-bottom: 0;color: #777;}
+.image{display: inline;border-radius: 45px;width: 170px;letter-spacing: 1px;margin-left: 20px;}
+
+.img-content {display: inline-block;width: 33%;padding-right: 10px;}
+.Root{border: 1px solid #ccc;border-radius: 5px;padding: 20px;margin-top: 15px;}
+.btn-success {padding: 0 15px 0 15px;}
+.save-cencil{margin: 25px;}
+.extra{border-radius: 40px;/*width: 95px;*/}
+
+a[data-bs-toggle="collapse"] {position: relative;}
+.d-icon {display: block;position: absolute;top: 50%;right: 0;transform: translateY(-50%);}
+
+/*************** Start Uploade File Button CSS*******************/
+.upload-btn-wrapper {position: relative;overflow: hidden;display: inline-block;width: 100%;margin-top: 7px;}
+.add_img_btn {background: transparent;border: 1px solid #000;padding: 7px 12px;font-size: 16px;}
+.add_img_btn:hover {background: #9c2a22;border: 1px solid #9c2a22;color: #fff;}
+.upload-btn-wrapper input[type=file] {position: absolute;left: 0;top: 0;opacity: 0;}
+/*************** End Uploade File Button CSS*******************/
+
+/*.add_options {position: absolute;right: 0;}*/
+/*.add_options_btn {background: transparent;border: 0;width: auto;font-size: 16px;margin-left: 15px;}*/
+
+
+.view_site {position: absolute;top: 60px;left: 20px;background: #fff;width: 130px;padding: 0 20px;z-index:1;display:none;}
+.side-logo:hover + .view_site,.view_site:hover {display: block;}
+.view_site a {color: #000;text-decoration: none;margin: 5px 0;display: inline-block;}
